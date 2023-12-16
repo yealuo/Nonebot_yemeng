@@ -1,0 +1,39 @@
+{
+    "product": "OneLernDB010",
+    "device": "OneLernDB010",
+    "board": "OneLernDB010",
+    "brand": "OneLern",
+    "model": "OneLernDB010",
+    "wifi_ssid": "TP-LINK_CS17RV",
+    "android_id": "SP1A.210812.015",
+    "boot_id": "19ddeda8-daa3-1db3-aadf-c6fb67ec74df",
+    "proc_version": "Linux version 3.9.78-B47PMHrM (android-build@aa31db3aadfc.source.android.com)",
+    "mac_address": "19:DD:ED:A8:DA:A3",
+    "ip_address": [
+        188,
+        20,
+        144,
+        113
+    ],
+    "imei": "049698495810681",
+    "incremental": "3137336748",
+    "protocol": 2,
+    "display": "SP1A.210812.015",
+    "finger_print": "OneLern/OneLernDB010/OneLernDB010:10/SP1A.210812.015/3137336748:user/release-keys",
+    "baseband": "",
+    "sim": "T-Mobile",
+    "sim_info": "T-Mobile",
+    "os_type": "android",
+    "bootloader": "U-boot",
+    "wifi_bssid": "19:DD:ED:A8:DA:A3",
+    "apn": "wifi",
+    "version": {
+        "incremental": "3137336748",
+        "release": "10",
+        "codename": "REL",
+        "sdk": 29
+    },
+    "imsi_md5": "51529c049ab64fb1612cefb90ba400c9",
+    "vendor_name": "OneLern",
+    "vendor_os_name": "android"
+}

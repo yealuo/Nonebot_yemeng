@@ -1,0 +1,2 @@
+[2023-12-16 13:34:24] [WARNING]: 警告: 未配置签名服务器, 这可能会导致登录 45 错误码或发送消息被风控 
+[2023-12-16 13:34:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
